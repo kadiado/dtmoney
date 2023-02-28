@@ -1,10 +1,10 @@
 import styled from "styled-components";
 
-export const Container = styled.header`
+export const ContainerHeader = styled.header`
   background: var(--blue);
 `;
 
-export const Content = styled.div`
+export const ContentHeader = styled.div`
   max-width: 1120px;
   margin: 0 auto;
   display: flex;

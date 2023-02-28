@@ -10,7 +10,7 @@ export const ContentHeader = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 1rem 12rem;
+  padding: 2rem 1rem 10rem;
 
   button {
     font-size: 1rem;

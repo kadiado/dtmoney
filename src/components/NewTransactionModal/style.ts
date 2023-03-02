@@ -59,8 +59,6 @@ interface RadioBoxProps {
   activeColor: "green" | "red";
 }
 
-interface ColorsProps {}
-
 const colors = {
   green: "#33CC95",
   red: "#E62E4D",
